@@ -15,8 +15,7 @@ Technologies used:
     - Pandas: handling data frames and their processing
     - Heroku: hosting / app management
     
-[url](https://git.heroku.com/terrorism-app-api.git)
-
+[The app can be found at](https://terrorism-app-api.herokuapp.com/)
 
     
 Data: National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2016). Global Terrorism Database [Data file](https://www.kaggle.com/START-UMD/gtd/downloads/gtd.zip/2). Retrieved from https://www.start.umd.edu/gtd
