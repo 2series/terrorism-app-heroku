@@ -86,10 +86,10 @@ layout = html.Div([
         ], style={'width': '48%', 'display': 'inline-block', 'float': 'right'})
     ]),
     
-    html.A('@eliasdabbas', href='https://www.twitter.com/eliasdabbas'), 
+    html.A('', href=''), 
     html.P(),
     html.Content('  Code: '),
-    html.A('github.com/eliasdabbas/terrorism', href='https://github.com/eliasdabbas/terrorism'), html.Br(), html.Br(),
+    html.A('github/terrorism-app-heroku', href='https://github.com/2series/terrorism-app-heroku'), html.Br(), html.Br(),
     html.Content('Data: National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2016). '
                  'Global Terrorism Database [Data file]. Retrieved from https://www.start.umd.edu/gtd')
     
@@ -138,7 +138,7 @@ def countries_on_map(countries, years):
                             plot_bgcolor='#eeeeee',
                             width=1420,
                             height=650,
-                            annotations=[{'text': '<a href="https://www.twitter.com">@eliasdabbas</a>', 'x': .2, 'y': -.1, 
+                            annotations=[{'text': '', 'x': .2, 'y': -.1, 
                                           'showarrow': False},
                                          {'text': 'Data: START Consortium', 'x': .2, 'y': -.13, 'showarrow': False}],                            
                             geo={'showland': True, 'landcolor': '#eeeeee',
