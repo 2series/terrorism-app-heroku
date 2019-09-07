@@ -7,10 +7,6 @@ Interactive dashboard for visualizing the dataset.
 
 [Explore the live dashboard here.](https://goo.gl/sxYD1y)
 
-Here is a quick video showing how it works and what is available: 
-
-[![Terrorism Dashboard](http://img.youtube.com/vi/BPfzqVK6gmk/0.jpg)](http://www.youtube.com/watch?v=BPfzqVK6gmk "Global Terrorism Database Interactive Dashboard")
-
 Technologies used: 
 - Programming language: Python
 - Packages: 
