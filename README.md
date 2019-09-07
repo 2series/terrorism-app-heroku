@@ -15,7 +15,7 @@ Technologies used:
     - Pandas: handling data frames and their processing
     - Heroku: hosting / app management
     
-![url](https://git.heroku.com/terrorism-app-api.git)
+[url](https://git.heroku.com/terrorism-app-api.git)
 
 
     
