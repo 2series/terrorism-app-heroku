@@ -5,7 +5,7 @@ Interactive dashboard for visualizing the dataset.
 
 ![](dashboard_screenshot.png)
 
-## Technologies used: 
+## Tech used: 
 - Programming language: Python
 - Packages: 
     - Plotly: charts and data visualization
